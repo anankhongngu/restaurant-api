@@ -1,0 +1,6 @@
+{
+    "dbUrl": "mongodb+srv://anan:Mongnghi27@cluster0.3jftq.mongodb.net/restaurant?retryWrites=true&w=majority",
+    "port": 3000,
+    "sgAPIKey": "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",
+    "jwtSignature": "restaurant"
+}
